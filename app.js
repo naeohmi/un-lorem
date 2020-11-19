@@ -4,9 +4,8 @@ const fs = require('fs');
 
 const currentLocale = 'pl_pl';
 const fileToRead = `./translations/${currentLocale}.json`;
+const newFilePath = `./api/${currentLocale}`;
 
-let newFilePath = `./api/${currentLocale}`;
-console.log('test')
 fs.mkdir(newFilePath, { recursive: true }, (err) => {
     if (err) throw err;
 });
@@ -14,18 +13,18 @@ fs.mkdir(newFilePath, { recursive: true }, (err) => {
 
 fs.readFile(fileToRead, (err, data) => {
     if (err) throw err;
-    let jsonData = JSON.parse(data);
-    console.log(jsonData);
+    const jsonData = JSON.parse(data);
+    console.log(`Data received - ${jsonData}`);
 
     for (let key in jsonData) {
         if (jsonData[key]) {
-            console.log(`Writing ${key} new file`)
+            console.log(`Writing - ${key} new file`)
             const fileName = `${newFilePath}/${key}.json`;
             fs.writeFileSync(fileName, jsonData[key]);
         } else {
-            console.log(` Error - not able to write ${key} new file`)
+            console.log(`Error - not able to write ${key} new file`)
         }
     }
 });
 
-console.log('This is after the read and write call :D ');
+console.log('Whoo hoo! 🥳');
