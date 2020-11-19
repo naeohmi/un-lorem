@@ -40,6 +40,12 @@ https://naeohmi.github.io/un-lorem/api/ru_ru/article_1.json
 
 ---
 
+### Example GET
+![Example Get](./assets/get-example.png)
+
+### Example CURL
+![Example Curl](./assets/curl-example.png)
+
 
 ## The UN-Lorem Filler Text Refresh project came out of a hackathon experience in November 2020. 
 
