@@ -1,0 +1,22 @@
+{
+  "name": "un-lorem",
+  "version": "1.0.0",
+  "description": "UN (United Nations) Lorem - Filler Text Refresh",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:naeohmi/un-lorem.git"
+  },
+  "keywords": [
+    "g11n",
+    "i18n",
+    "l10n",
+    "awesome"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
