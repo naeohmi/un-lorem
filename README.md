@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## This is the UN-Lorum Filler Text project.
 
-You can use the [editor on GitHub](https://github.com/naeohmi/un-lorem/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Arising from the rubble and ash of World War Two, the United Nations was established in 1945. Seeking to prevent such atrocities the world witnessed during the war, the United Nations worked to affirm basic human rights as described its foundational documents. In the few years that followed, a document took shape that captured the vision of a faith in fundamental human rights, the dignity of the human person, and a commitment to promote better standards of living to all persons across the world. The Universal Declaration of Human Rights was adopted by the UN General Assembly in Paris on 10 December 1948. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, its adoption was a milestone in the history of human rights.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Declaration has formed the basis of international human rights law and bodies for human rights protections. It supports the decolonization struggle and its principles have been enshrined in consistutions of newly established countries.
 
-### Markdown
+The document has been translated in over five hundred languages and has enjoyed special status as the most translated document that has ever existed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naeohmi/un-lorem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our aim with the UN-Lorem filler text project is to provide an alternative to the lorum Ipsum content which many in the type and content industries have used as default placeholder or sample content. We propose [and|to] make available the Declaration as a substitute filler content. This is especially relevant at this time in history as struggles increase and escalate for many of the fundamental rights provided for within the Declaration. We believe it is essential to put these values of the Declaration in front of as many people as possible as a reminder that All human beings are born free and equal in dignity and rights.
