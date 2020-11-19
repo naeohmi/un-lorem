@@ -1,0 +1,1 @@
+Chacun a le droit à la reconnaissance en tous lieux de sa personnalité juridique.

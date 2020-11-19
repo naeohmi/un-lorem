@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-const currentLocale = 'zh_cn';
+const currentLocale = 'pl_pl';
 const fileToRead = `./translations/${currentLocale}.json`;
 
 let newFilePath = `./api/${currentLocale}`;

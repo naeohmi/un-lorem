@@ -1,4 +1,4 @@
-## This is the UN-Lorum Filler Text project.
+## This is the UN-Lorem Filler Text project
 
 Arising from the rubble and ash of World War Two, the United Nations was established in 1945. Seeking to prevent such atrocities the world witnessed during the war, the United Nations worked to affirm basic human rights as described its foundational documents. In the few years that followed, a document took shape that captured the vision of a faith in fundamental human rights, the dignity of the human person, and a commitment to promote better standards of living to all persons across the world. The Universal Declaration of Human Rights was adopted by the UN General Assembly in Paris on 10 December 1948. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, its adoption was a milestone in the history of human rights.
 
@@ -6,7 +6,7 @@ The Declaration has formed the basis of international human rights law and bodie
 
 The document has been translated in over five hundred languages and has enjoyed special status as the most translated document that has ever existed.
 
-Our aim with the UN-Lorem filler text project is to provide an alternative to the lorum Ipsum content which many in the type and content industries have used as default placeholder or sample content. We propose [and|to] make available the Declaration as a substitute filler content. This is especially relevant at this time in history as struggles increase and escalate for many of the fundamental rights provided for within the Declaration. We believe it is essential to put these values of the Declaration in front of as many people as possible as a reminder that All human beings are born free and equal in dignity and rights.
+Our aim with the UN-Lorem filler text project is to provide an alternative to the lorem Ipsum content which many in the type and content industries have used as default placeholder or sample content. We propose [and|to] make available the Declaration as a substitute filler content. This is especially relevant at this time in history as struggles increase and escalate for many of the fundamental rights provided for within the Declaration. We believe it is essential to put these values of the Declaration in front of as many people as possible as a reminder that All human beings are born free and equal in dignity and rights.
 
 ---
 The Filler Text Refresh project came out of a hackathon experience in November 2020. This was the pitch:

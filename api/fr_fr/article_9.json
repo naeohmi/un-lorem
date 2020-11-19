@@ -1,0 +1,1 @@
+Nul ne peut être arbitrairement arrêté, détenu ni exilé.

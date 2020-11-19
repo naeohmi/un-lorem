@@ -1,0 +1,1 @@
+Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.
